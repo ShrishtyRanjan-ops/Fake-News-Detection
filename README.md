@@ -33,7 +33,7 @@ The project uses TF-IDF Vectorization to convert text into numerical features an
 
 ### 1. Clone the Repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ShrishtyRanjan-ops/Fake-News-Detection.git
 ```
 
 ### 2. Navigate to the Project Folder
